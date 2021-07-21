@@ -1,0 +1,10 @@
+body{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+	background: #F5F2F2;
+	padding: 10px 20px;
+}
+.navbar-brand{
+	font-size: 25px;
+}

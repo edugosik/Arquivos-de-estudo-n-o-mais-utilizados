@@ -1,0 +1,21 @@
+body{
+	width: 960px;
+	margin: auto;
+	background: #4784E8;
+	padding: 10px 20px;
+}
+#all{
+	font-size: 20px;
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	float: left;
+}
+img { 
+	max-width: 500px; 
+}
+video{
+	max-width: 500px;
+}
+.header1{
+	background: black;
+	color:#FFFFFF;
+}

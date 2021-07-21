@@ -1,0 +1,284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"videos-css.css"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"t",
+				"TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"s",
+				"site-estilo.css"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-f",
+				"font-family"
+			],
+			[
+				"font-siz",
+				"font-size"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"de",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ha",
+				"header\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippet lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snipt",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: img"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ACER/Desktop/html/Nova pasta/musicos.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/musicos-css.css",
+		"/C/Users/ACER/Desktop/html/Nova pasta/index.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/index-css.css",
+		"/C/Users/ACER/Desktop/html/Nova pasta/midia.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/videos-css.css",
+		"/C/Users/ACER/Desktop/html/teste.html",
+		"/C/Users/ACER/Desktop/html/teste-estilo.css",
+		"/C/Users/ACER/Desktop/html/ddd.css",
+		"/C/Users/ACER/Desktop/html/comandos teste.html",
+		"/C/Users/ACER/Desktop/html/site.html",
+		"/C/Users/ACER/Desktop/html/corpo-estilo.css",
+		"/C/Users/ACER/Desktop/html/corpo formação.html",
+		"/C/Users/ACER/Desktop/html/teste-estilo.html",
+		"/C/Users/ACER/Desktop/html/site-estilo.css",
+		"/C/Users/ACER/Desktop/html/contato.html",
+		"/C/Users/ACER/Desktop/html/estilo.css",
+		"/C/Users/ACER/Desktop/html/css/estilo.css",
+		"/C/Users/ACER/Desktop/html/css-estilo.html",
+		"/C/Users/ACER/Desktop/html/img-links.html",
+		"/C/Users/ACER/Desktop/html/pages/pagina1.html",
+		"/C/Users/ACER/Desktop/html/pages/pagina2.html",
+		"/C/Users/ACER/Desktop/html/pagina1.html",
+		"/C/Users/ACER/Desktop/html/pagina2.html",
+		"/C/Users/ACER/Desktop/html/corpo.html",
+		"/C/Users/ACER/Desktop/html/corpo",
+		"/C/Users/ACER/Desktop/teste de comandos.html",
+		"/C/Users/ACER/Desktop/html/CORPO"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ds.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

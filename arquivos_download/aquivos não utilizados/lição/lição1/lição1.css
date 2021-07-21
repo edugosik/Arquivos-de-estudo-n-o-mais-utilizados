@@ -1,0 +1,12 @@
+body{
+    background: black;
+    color: white;
+}
+#formulario{
+    float: right;
+    background: pink;
+    color: black;
+}
+header{
+    background: orangered;
+}

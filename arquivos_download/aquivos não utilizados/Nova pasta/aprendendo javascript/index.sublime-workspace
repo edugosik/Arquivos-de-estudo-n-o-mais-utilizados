@@ -1,0 +1,946 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ar",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"s",
+				"style\t<style>"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"doc",
+				"Document"
+			],
+			[
+				"mai",
+				"menor_ou_igual"
+			],
+			[
+				"com",
+				"comparação"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"pro",
+				"prompt\tprompt()"
+			],
+			[
+				"men",
+				"menor"
+			],
+			[
+				"java",
+				"javacss.css"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"a",
+				"alert\talert()"
+			],
+			[
+				"pr",
+				"prompt\tprompt()"
+			],
+			[
+				"vi",
+				"videos-css.css"
+			],
+			[
+				"widt",
+				"width\tproperty"
+			],
+			[
+				"t",
+				"TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font-f",
+				"font-family"
+			],
+			[
+				"font-siz",
+				"font-size"
+			],
+			[
+				"de",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ha",
+				"header\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ACER/Desktop/Programação/Teste e mais teste/img-links.html",
+			"settings":
+			{
+				"buffer_size": 1363,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\tvar nome= window.prompt('qual o seu nome:')\n\nvar idade= window.prompt('qual a sua idade:')\n\nvar n1= Number (window.prompt ('escreve um numero ai: '))\n\nvar n2= Number (window.prompt ('escreve um outro numero ai: '))\n\n\n/*string > number (number[ele escolhe se é inteiro ou quebrado]; \nnumber.parseInt[numeros inteiro];number.parseFloat[numeros quebrados])*/\n/*number > string (string{a}[o que estiver dentro é covertido para string];\nn.toString[converte para string ao contrario]) */\n\nvar a= n1 + n2\n\nvar s= n1 - n2\n\nvar d= n1 / n2\n\nvar m= n1 * n2\n\nvar r= n1 % n2\n\nvar p= n1 ** n2\n\nvar med= (n1 + n2)/ 2\n\nd.toFixed(2)\n//window.alert(`${nome} que tem ${idade} de idade quer saber seus numeros:`)\n\nwindow.alert('seu nome tem ' + nome.length + ' caracteres')\nwindow.alert('seu nome em maiusculo ' + nome.toUpperCase())\nwindow.alert('seu nome em minusculo ' + nome.toLowerCase())\n\nwindow.alert(`seus numeros são ${n1} e ${n2}`)\n//o $ faz a mesma coisa que o + mas precisa estar entre crase\nwindow.alert('sua adição é ' + a )\nwindow.alert('sua subtração é ' + s )\nwindow.alert('sua divisão é ' + d )\nwindow.alert('sua multiplicação é ' + m )\nwindow.alert('o resto da divisão é ' + r)\nwindow.alert('sua potencia é ' + p)\nwindow.alert('sua média é ' + med)\n\n/*\ndocument.write('sua adição é ' + a)\ndocument.write('sua subtração é ' + s)\ndocument.write('sua divisão é ' + d )\ndocument.write('sua multiplicação é ' + m)\n*/",
+			"file": "antigo/java003.js",
+			"file_size": 1490,
+			"file_write_time": 132450406336095420,
+			"settings":
+			{
+				"buffer_size": 1411,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ACER/AppData/Local/FakeApp/app-2.2.0/node.dll",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/ACER/Desktop/Programação/Teste e mais teste/comandos teste.html",
+			"settings":
+			{
+				"buffer_size": 4294,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snipt",
+				"Snippet: html"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: img"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ACER/Desktop/Programação",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/antigo",
+		"/C/Users/ACER/Desktop/Programação/Teste e mais teste",
+		"/C/Users/ACER/Desktop/Programação/Teste e mais teste/img",
+		"/C/Users/ACER/Desktop/Programação/Teste e mais teste/pages"
+	],
+	"file_history":
+	[
+		"/C/Users/ACER/Desktop/Programação/pyton/index.html",
+		"/C/Users/ACER/Desktop/Programação/pyton/pyton.css",
+		"/C/Users/ACER/Desktop/Programação/pyton/pyton.py",
+		"/C/Users/ACER/Desktop/Programação/ndd/teste.html",
+		"/C/Users/ACER/Desktop/Programação/sdsdsd.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/html11.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/DOM.html",
+		"/C/Users/ACER/Desktop/Programação/ndd/ndd.css",
+		"/C/Users/ACER/Desktop/Programação/ndd/ndd.js",
+		"/C/Users/ACER/Desktop/Programação/Teste e mais teste/corpo explicação.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/DOM.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/média.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/média.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/javacss.css",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/operação.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/java004.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/java003.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/index.html",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/java.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/java - Copia.js",
+		"/C/Users/ACER/Desktop/Programação/aprendendo javascript/index.sublime-project",
+		"/C/Users/ACER/Desktop/html/Nova pasta/videos.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/videos-css.css",
+		"/C/Users/ACER/Desktop/html/Nova pasta/musicos.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/musicos-css.css",
+		"/C/Users/ACER/Desktop/html/Nova pasta/index.html",
+		"/C/Users/ACER/Desktop/html/Nova pasta/index-css.css",
+		"/C/Users/ACER/Desktop/html/Nova pasta/midia.html",
+		"/C/Users/ACER/Desktop/html/teste.html",
+		"/C/Users/ACER/Desktop/html/teste-estilo.css",
+		"/C/Users/ACER/Desktop/html/ddd.css",
+		"/C/Users/ACER/Desktop/html/comandos teste.html",
+		"/C/Users/ACER/Desktop/html/site.html",
+		"/C/Users/ACER/Desktop/html/corpo-estilo.css",
+		"/C/Users/ACER/Desktop/html/corpo formação.html",
+		"/C/Users/ACER/Desktop/html/teste-estilo.html",
+		"/C/Users/ACER/Desktop/html/site-estilo.css",
+		"/C/Users/ACER/Desktop/html/contato.html",
+		"/C/Users/ACER/Desktop/html/estilo.css",
+		"/C/Users/ACER/Desktop/html/css/estilo.css",
+		"/C/Users/ACER/Desktop/html/css-estilo.html",
+		"/C/Users/ACER/Desktop/html/img-links.html",
+		"/C/Users/ACER/Desktop/html/pages/pagina1.html",
+		"/C/Users/ACER/Desktop/html/pages/pagina2.html",
+		"/C/Users/ACER/Desktop/html/pagina1.html",
+		"/C/Users/ACER/Desktop/html/pagina2.html",
+		"/C/Users/ACER/Desktop/html/corpo.html",
+		"/C/Users/ACER/Desktop/html/corpo",
+		"/C/Users/ACER/Desktop/teste de comandos.html",
+		"/C/Users/ACER/Desktop/html/CORPO"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ACER/Desktop/Programação/Teste e mais teste/img-links.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1350,
+										1354
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										233,
+										237
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "antigo/java003.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ACER/AppData/Local/FakeApp/app-2.2.0/node.dll",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/ACER/Desktop/Programação/Teste e mais teste/comandos teste.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4294,
+						"regions":
+						{
+							"col_000000FF":
+							{
+								"flags": 16,
+								"regions":
+								[
+									[
+										1920,
+										1925
+									]
+								],
+								"scope": "col_000000FF"
+							},
+							"col_000000FF_icon":
+							{
+								"flags": 16,
+								"icon": "Packages/User/Color Highlight.cache/col_000000FF_circle.png",
+								"regions":
+								[
+									[
+										1731,
+										1731
+									]
+								],
+								"scope": "col_gutter"
+							}
+						},
+						"selection":
+						[
+							[
+								4244,
+								4244
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										4265,
+										4266
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										4245,
+										4246
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

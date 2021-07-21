@@ -1,0 +1,16 @@
+body{
+  background: #c2c2c2;
+}
+body #all {
+  width: 360px;
+	margin: auto;
+	background: #a7a6a6;
+	padding: 150px 20px;
+}
+.linkLC1{
+  float: right;
+}
+.linkLC{
+  color: white;
+  text-decoration: none;
+}

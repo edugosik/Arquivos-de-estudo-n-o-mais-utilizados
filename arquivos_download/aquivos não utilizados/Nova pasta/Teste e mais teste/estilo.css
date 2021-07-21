@@ -1,0 +1,16 @@
+a{
+	color: red;
+	text-decoration: none;
+	font-size: 20px			
+}
+h1{
+	font-family: "Arial ", "Arial Bold", Gadget, sans-serif;
+	font-size: 44px
+}
+#ex2{
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	color: #00DEFF
+}
+.link{
+	color: #14FF72
+}

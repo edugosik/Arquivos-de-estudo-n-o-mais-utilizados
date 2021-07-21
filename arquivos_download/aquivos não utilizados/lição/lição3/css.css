@@ -1,0 +1,12 @@
+body{
+    background: #c2c2c2;
+  }
+  body #all {
+    width: 660px;
+      margin: auto;
+      background: #a7a6a6;
+      padding: 150px 20px;
+  }
+.texto001{
+  padding: 150px 300px;
+}

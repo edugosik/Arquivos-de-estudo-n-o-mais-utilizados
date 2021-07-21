@@ -1,0 +1,28 @@
+body{
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+}
+#all{
+	width: 860px;
+	padding: 10px;
+	margin: auto;
+	color: #FFFFFF;
+	display: inline-block;
+	background: black
+}
+a:link, a:visited{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+}
+#seção{
+	float: left;
+	width: 560px
+}
+#borda{
+	float: right;
+	width: 200px;
+}
+footer{
+	display: inline-block;
